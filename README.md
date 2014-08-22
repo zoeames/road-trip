@@ -1,7 +1,7 @@
 ## name of project
 ### Code Badges
-build status icon
-coverage status icon
+[![Build Status](https://travis-ci.org/zoeames/road-trip.svg)](https://travis-ci.org/zoeames/road-trip)
+[![Coverage Status](https://coveralls.io/repos/zoeames/road-trip/badge.png)](https://coveralls.io/r/zoeames/road-trip)
 
 ### About
 write a description about your project
